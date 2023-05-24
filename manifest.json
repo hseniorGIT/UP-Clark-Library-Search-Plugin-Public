@@ -2,9 +2,9 @@
     "manifest_version": 3,
 
     "name": "Library Search Plugin",
-    "description": "Search the your Library's Catalogue at any moment without leaving your current page!",
+    "description": "Search the UP Clark Library catalog at any moment without leaving your current page!",
     "version": "2022.07.27",
-    "author": "Leiden University Libraries",
+    "author": "University of Portland Clark Library, with thanks to Leiden University Libraries",
     "content_security_policy": {
         "extension_pages": "script-src 'self'; object-src 'self'"
     },
